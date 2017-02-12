@@ -1,0 +1,42 @@
+[33mcommit ba6b0f0c87bc8421b3c6b08d382cc6e0178a9f88[m
+Merge: e6a95a9 4b02fd4
+Author: Cristian <cdcordobaa@unal.edu.co>
+Date:   Sat Feb 11 19:45:27 2017 +0000
+
+    Merge branch 'contactUs'
+
+[33mcommit 4b02fd49a32c5a657616c177de6cbb35e61c4d97[m
+Author: Cristian <cdcordobaa@unal.edu.co>
+Date:   Sat Feb 11 19:20:36 2017 +0000
+
+    added a fake contact us page
+
+[33mcommit e6a95a9c25b8e4e048beb8c630a4450b3128e827[m
+Author: Wilson Tellez <wetelleza@unal.edu.co>
+Date:   Sat Feb 11 14:17:58 2017 -0500
+
+    route to aboutUS
+
+[33mcommit 9d924ec836439d3a33f62202d2c9ded0c0d7610d[m
+Author: Wilson Tellez <wetelleza@unal.edu.co>
+Date:   Sat Feb 11 14:04:41 2017 -0500
+
+    about us
+
+[33mcommit 42a6ddf8699aac1240aecb90353a2246b6f4c7b2[m
+Author: Cristian <cdcordobaa@unal.edu.co>
+Date:   Sat Feb 11 18:57:23 2017 +0000
+
+    contact page created
+
+[33mcommit a2dc3e834fabe65a469c903b45af816b357d2bd9[m
+Author: Cristian <cdcordobaa@unal.edu.co>
+Date:   Sat Feb 11 18:43:57 2017 +0000
+
+    page index added
+
+[33mcommit 899c24be3833875ffa4814a82c7a3fd619c905ce[m
+Author: jucjimenezmo <jucjimenezmo@unal.edu.co>
+Date:   Sat Feb 11 13:01:31 2017 -0500
+
+    set up
