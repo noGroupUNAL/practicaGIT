@@ -15,10 +15,7 @@ class MessagesControllerTest < ActionDispatch::IntegrationTest
     assert_response :success
   end
 
-  test "should create message" do
-    assert_difference('Message.count') do
-      post messages_url, params: { message: { description: @message.description, tittle: @message.tittle } }
-    end
+  
 
     assert_redirected_to message_url(Message.last)
   end
