@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  tittle: FUCJAJAS BALBALBALBVA RER
+  description: MyText1 DSDSDSDSD SFS SFDSDSDSDSD
+
+two:
+  tittle: MyString1  RR3323E2
+  description: MyText2RA DSDSD MY FGYSDKHSDKHS
+
+three:
+  tittle: MyStridddg1  RR3323E2
+  description: MyText2RA DSDSD MY FGYSDKHSDKHS
