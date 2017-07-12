@@ -15,10 +15,7 @@ class MessagesControllerTest < ActionDispatch::IntegrationTest
     assert_response :success
   end
 
-  test "should create message" do
-    assert_difference('Message.count') do
-      post messages_url, params: { message: { description: @message.description, title: @message.title } }
-    end
+  
 
     assert_redirected_to message_url(Message.last)
   end
@@ -34,7 +31,7 @@ class MessagesControllerTest < ActionDispatch::IntegrationTest
   end
 
   test "should update message" do
-    patch message_url(@message), params: { message: { description: @message.description, title: @message.title } }
+    patch message_url(@message), params: { message: { description: @message.description, tittle: @message.tittle } }
     assert_redirected_to message_url(@message)
   end
 
